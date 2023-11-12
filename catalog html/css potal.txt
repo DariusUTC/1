@@ -1,0 +1,16 @@
+<style>
+
+
+body {
+ 
+ background-color: #22ccf5;
+
+}
+
+ h1 {
+ 
+ color: #590677;
+
+}
+ 
+</style>
