@@ -1,0 +1,27 @@
+<style>
+
+body {
+  background-color: #C9F382;
+}
+
+p {
+  color: black;
+} 
+
+li {
+  color: #013596;
+} 
+
+ h3 {
+  color: #065AF9;
+} 
+
+ th {
+  color: #B56104;
+} 
+
+ td {
+  color: #B56104;
+} 
+
+</style>
